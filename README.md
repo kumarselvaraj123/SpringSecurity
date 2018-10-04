@@ -16,6 +16,9 @@ https://github.com/kumarselvaraj123/SpringSecurity/
 
 mvn spring-boot:run
 
+### Project screenshots
+Screenshots are available in the file Projectscreenshots.doc
+
 # Note:- Heroku did not support H2 So i did not deploy it in Heroku
 
 
